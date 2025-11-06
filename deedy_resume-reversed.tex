@@ -1,63 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Deedy - One Page Two Column Resume
-% LaTeX Template
-% Version 1.3 (22/9/2018)
-%
-% Original author:
-% Debarghya Das (http://debarghyadas.com)
-%
-% Original repository:
-% https://github.com/deedydas/Deedy-Resume
-%
-% v1.3 author:
-% Zachary Taylor
-%
-% v1.3 repository:
-% https://github.com/ZDTaylor/Deedy-Resume-Reversed
-%
-% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
-%
-% This template uses several fonts not included with Windows/Linux by
-% default. If you get compilation errors saying a font is missing, find the line
-% on which the font is used and either change it to a font included with your
-% operating system or comment the line out to use the default font.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% TODO:
-% 1. Add various styling and section options and allow for multiple pages smoothly.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% CHANGELOG:
-% v1.3:
-% 1. Removed MacFonts version as I have no desire to maintain it nor access to macOS
-% 2. Switched column ordering
-% 3. Changed font styles/colors for easier human readability
-% 4. Added, removed, and rearranged sections to reflect my own experience
-% 5. Hid last updated
-%
-% v1.2:
-% 1. Added publications in place of societies.
-% 2. Collapsed a portion of education.
-% 3. Fixed a bug with alignment of overflowing long last updated dates on the top right.
-%
-% v1.1:
-% 1. Fixed several compilation bugs with \renewcommand
-% 2. Got Open-source fonts (Windows/Linux support)
-% 3. Added Last Updated
-% 4. Move Title styling into .sty
-% 5. Commented .sty file.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% Known Issues:
-% 1. Overflows onto second page if any column's contents are more than the vertical limit
-% 2. Hacky space on the first bullet point on the second column.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 \documentclass[]{deedy-resume-reversed}
 \usepackage{fancyhdr}
 
@@ -66,238 +6,119 @@
 
 \begin{document}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     LAST UPDATED DATE
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \lastupdated
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     TITLE NAME
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{John Doe}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
-\href{mailto:john.doe@example.com}{john.doe@example.com} | \href{tel:11111111111}{111.111.1111}
+\namesection{Jacob Maschler}{
+\href{mailto:jacobmaschler@gmail.com}{jacobmaschler@gmail.com} | \href{tel:07403640755}{07403640755} | \href{https://github.com/MeioNeiz}{github.com/MeioNeiz}
 }
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     COLUMN ONE
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{minipage}[t]{0.60\textwidth}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXPERIENCE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Experience}
-\runsubsection{Company A}
-\descript{| Advanced Development Intern }
-\location{May 2018 – Aug 2018 | Somewhere, XX}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+
+\runsubsection{Oceanskies}
+\descript{| PHP Software Developer}
+\location{Current}
+\vspace{\topsep}
 \begin{tightemize}
-\item Developed a cloud-based solution to automate and enhance the engineering process for network installation using AWS and Python.
-\item Worked with other teams to create a system to collect and visualize telemetry data of network elements in real time using AWS, Python, and DOMO.
-\item Consulted with other teams to jump start cloud-technology adoption and solutions throughout the company.
-\item Contributed to initial planning for optics-alignment system utilizing AWS, reinforcement learning, and an IoT architecture.
+\item Developed full-stack web applications using PHP Laravel,
+  JavaScript, and custom frameworks for projects including
+  Sunlounger and Yacht Payroll
+\item Implemented and redesigned backend APIs, security features,
+  and frontend-backend architecture
+\item Managed containerization with Docker and cloud
+  infrastructure using AWS (S3, management)
+\item Collaborated with customers on project scoping, requirements,
+  and represented the company as lead developer
+\item Handled staff management systems and web app development
+  across multiple concurrent projects
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Company B}
-\descript{| Intern }
-\location{Feb 2017 – Nov 2017 | Somewhere, XX}
+\runsubsection{Citel}
+\descript{| Full Stack Developer - Placement Year}
+\location{Jul 2022 – Jul 2023}
 \begin{tightemize}
-\item Coordinated with multiple departments to lead a software product evaluation resulting in a fit-for-purpose verdict and provided a recommendation on moving forward.
-\item Organized meetings with the vendor to receive in-depth product information and answers to cross-departmental questions.
-\item Participated on the Web Development Taskforce to provide AngularJS sites to internal customers.
-\item Participated in an internal CodeJam to prototype a blockchain application for managing a model supply-chain.
-\item Worked with a team to plan executive visit and team-building exercise for 200 employees.
+\item Worked as a full-stack developer focusing on enhancing web
+  performance, improving security, and upgrading the codebase
+  framework
+\item Created automated tests using Selenium and enhanced the
+  billing process
+\item Collaborated with clients and teams on new features and
+  testing
+\item Strengthened skills in coding, debugging, problem-solving,
+  and Agile development
 \end{tightemize}
 \sectionsep
 
-\runsubsection{My University ITS}
-\descript{| Assistant Support Specialist }
-\location{Aug 2015 – Oct 2016 | Somewhere, XX}
+\runsubsection{Audio-Visual Active Speaker Detection}
+\descript{| Final Year Project - 81\%}
+\location{Jun 2024}
 \begin{tightemize}
-\item Interacted with clients to assess their problems and implement a solution in an efficient, friendly manner.
-\item Prepared workstations and laptops for future use by company employees.
-\item Created scripts to automate common tasks and increase productivity.
+\item Developed VoxID, a hybrid machine learning pipeline for
+  detecting active speakers in multi-speaker environments using
+  audio-visual data
+\item Architected three-stage system: 2D ResNet-18 with Temporal
+  Shift Module, Bi-directional LSTMs for temporal modeling, and
+  Graph Neural Networks for spatial-temporal reasoning
+\item Achieved 94.4\% mAP on AVA-ActiveSpeaker benchmark,
+  outperforming all open-source baselines
+\item Implemented end-to-end pipeline with data preprocessing,
+  augmentation, and Bayesian hyperparameter optimization
+\item Technologies: PyTorch, Python, Docker, AWS
 \end{tightemize}
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PROJECTS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Projects}
-\runsubsection{Space Robotics Team}
-\descript{| Path-Planning Lead}
-\location{Jan 2018 – Present | Somewhere, XX}
-\begin{tightemize}
-\item Spearhead the development effort for the path-planning functionality of a team of three robots.
-\item ROS provides movement servers and the planning is being implemented in Python to allow for fully-autonomous operation.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Chit Chat}
-\descript{| Class Project for Distributed Client-Server Programming}
-\location{Jan 2018 – May 2018 | Somewhere, XX}
-\begin{tightemize}
-\item Lead the development of \textbf{\href{https://github.com/user/repo}{Chit Chat}}, an anonymous chat application created as a class project.
-\item Chit Chat provides real-time communication while utilizing a PHP backend and AngularJS frontend.
-\end{tightemize}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Research}
-% \runsubsection{Cornell Robot Learning Lab}
-% \descript{| Researcher}
-% \location{Jan 2014 – Jan 2015 | Ithaca, NY}
-% Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.
-% \sectionsep
-
-% \runsubsection{Cornell Phonetics Lab}
-% \descript{| Head Undergraduate Researcher}
-% \location{Mar 2012 – May 2013 | Ithaca, NY}
-% Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research.
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COMMUNITY SERVICE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Community Service}
-
-% \begin{tabular}{rll}
-% 2013 -- 2018    & Tennessee     & St. Baldrick's Foundation\\
-% 2014 -- 2017	& Tennessee     & American Cancer Society's Hope Lodge\\
-% 2013 -- 2015    & Tennessee     & Habitat for Humanity\\
-% 2011 -- 2015    & Tennessee     & Special Olympics\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SOCIETIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Societies}
-
-% \begin{tabular}{rll}
-% 2018 -- 2018    & National      & Association of Computing Machinery (ACM)\\
-% 2017 -- 2019	& National      & Scrum Alliance Certified ScrumMaster\\
-% 2015 -- 2019    & University    & Shackouls Honors College\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Awards}
-% \begin{tabular}{rll}
-% 2015        & 99\textsuperscript{th} percentile & National Merit Scholarship Finalist\\
-% \end{tabular}
-% \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \section{Publications}
-% \renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-% \bibliographystyle{abbrv}
-% \bibliography{publications}
-% \nocite{*}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     COLUMN TWO
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.33\textwidth}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EDUCATION
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Loughborough University}
 
-\section{Education}
-
-\subsection{My University}
-\descript{Bachelor of Science in Computer Science with minors in Mathematics and Statistics}
-\location{Expected Dec 2019 | Somewhere, XX}
-% College of Engineering \\
-Dean's List (All Semesters) \\
-\location{ Cum. GPA: 4.0 / 4.0}
+\subsection{First Class Honours | Jun 2024}
+\descript{BSc Computer Science with AI}
+\location{Key Modules:}
+Advanced AI Systems - 90\% \\
+AI Project - 81\% \\
+Embedded Systems - 86\% \\
+Mobile App Development - 81\% \\
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{A Levels}
+\location{Sep 2017 – Jul 2019}
+Physics - A \textbullet{} Maths - B \\
+BTEC IT - D*
+\sectionsep
 
 \section{Skills}
-\subsection{Programming}
-\location{3+ years:}
-Python \textbullet{} C/C++ \\
-\location{1+ years:}
-PHP \textbullet{} JavaScript \\
-\location{0+ years:}
-Matlab \textbullet{} R \textbullet{} SAS \\
+
+\subsection{Technical Skills}
+Agile Development \textbullet{} Problem Solving \textbullet{} Data
+Analytics \textbullet{} ERP Systems Implementation
 \sectionsep
 
-\subsection{Technology}
-Git/Github \textbullet{} AWS \textbullet{} Linux \\
-UNIX \textbullet{} Windows \textbullet{} ROS \\
-Artificial Intelligence \textbullet{} Automation \\
+\subsection{Tools \& Frameworks}
+Laravel \textbullet{} Docker \textbullet{} AWS \textbullet{} S3
+\textbullet{} Bitbucket \textbullet{} AngularJS \textbullet{} Jira
+\textbullet{} Selenium \textbullet{} Django \textbullet{} SQL
+\textbullet{} Bootstrap \textbullet{} PyTorch
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-\subsection{Graduate}
-Analysis of Algorithms
+\subsection{Programming Languages}
+Advanced: Python \textbullet{} JavaScript \textbullet{} PHP \\
+Intermediate: TypeScript \textbullet{} Java \textbullet{} C/C++
+\textbullet{} SQL \\
+Beginner: Rust
 \sectionsep
 
-\subsection{Undergraduate}
-Artificial Intelligence \\
-{\footnotesize \textit{\textbf{(Teaching Assistant) }}} \\
-AI Robotics \\
-Operating Systems I \\
-Calculus I-IV \\
-Data Analysis I \\
-Introduction to Probability \\
+\subsection{Certifications}
+Browser Automation with Selenium \\
+Angular JS JumpStart \\
+Sailing/Windsurf SWA Instructor
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Societies
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Societies}
-Association for Computing Machinery (ACM)\\
-Scrum Alliance Certified ScrumMaster\\
-University Honors College\\
-National Merit Scholarship Finalist \\
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links}
-Github:// \href{https://github.com/}{\bf JohnDoe} \\
-LinkedIn://  \href{https://www.linkedin.com/}{\bf johndoe}
+\subsection{Core Qualities}
+Honesty \textbullet{} Reliability \textbullet{} Conscientiousness
 \sectionsep
 
 \end{minipage}
-\end{document}  \documentclass[]{article}
+
+\end{document}

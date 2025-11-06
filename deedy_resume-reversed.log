@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.11.6)  6 NOV 2025 22:27
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.11.6)  6 NOV 2025 23:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -267,19 +267,19 @@ Package fontspec Info:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"[fonts/lato/Lato-Reg]/OT:script=latn;language=dflt;m
-apping=tex-text;color=2B2B2BFF
+apping=tex-text;color=313131FF
 (fontspec)             ;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
 (fontspec)             <->"[fonts/lato/Lato-Bol]/OT:script=latn;language=dflt;m
-apping=tex-text;color=2B2B2BFF
+apping=tex-text;color=313131FF
 (fontspec)             ;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->"[fonts/lato/Lato-RegIta]/OT:script=latn;language=dfl
-t;mapping=tex-text;color=2B2B2BFF
+t;mapping=tex-text;color=313131FF
 (fontspec)             ;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
 (fontspec)             <->"[fonts/lato/Lato-BolIta]/OT:script=latn;language=dfl
-t;mapping=tex-text;color=2B2B2BFF
+t;mapping=tex-text;color=313131FF
 (fontspec)             ;"
 
 
@@ -386,26 +386,26 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 ) (deedy_resume-reversed.aux)
 \openout1 = `deedy_resume-reversed.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -441,7 +441,7 @@ LaTeX Font Info:    ... okay on input line 67.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 67.
+Package hyperref Info: Link coloring OFF on input line 7.
 (deedy_resume-reversed.out) (deedy_resume-reversed.out)
 \@outlinefile=\write3
 \openout3 = `deedy_resume-reversed.out'.
@@ -453,62 +453,61 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 67.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 67.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 67.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 67.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 67.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 67.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 67.
-LaTeX Font Info:    Redeclaring math accent \check on input line 67.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 67.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 67.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 67.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 67.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 67.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 7.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 7.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 7.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 7.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 7.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 7.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 7.
+LaTeX Font Info:    Redeclaring math accent \check on input line 7.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 7.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 7.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 7.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 7.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 7.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 67.
+(Font)              `operators' in the math version `normal' on input line 7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Lato-Reg(0)/m/n on input line 67.
+(Font)                  OT1/cmr/m/n --> TU/Lato-Reg(0)/m/n on input line 7.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 67.
+(Font)              `operators' in the math version `bold' on input line 7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Lato-Reg(0)/m/n on input line 67.
+(Font)                  OT1/cmr/bx/n --> TU/Lato-Reg(0)/m/n on input line 7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/Lato-Reg(0)/m/n --> TU/Lato-Reg(0)/m/n on input line
- 67.
+ 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Lato-Reg(0)/m/it on input line 67.
+(Font)                  OT1/cmr/m/it --> TU/Lato-Reg(0)/m/it on input line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Lato-Reg(0)/b/n on input line 67.
+(Font)                  OT1/cmr/bx/n --> TU/Lato-Reg(0)/b/n on input line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/Raleway-ExtraLight(0)/m/n on input 
-line 67.
+line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 67.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/Lato-Reg(0)/m/n --> TU/Lato-Reg(0)/b/n on input line
- 67.
+ 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Lato-Reg(0)/b/it on input line 67.
-
+(Font)                  OT1/cmr/bx/it --> TU/Lato-Reg(0)/b/it on input line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/Raleway-ExtraLight(0)/b/n on input
- line 67.
+ line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 67.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 7.
 
 isodate: babel.sty, (n)german.sty have not been loaded
 
@@ -540,7 +539,7 @@ ge=dflt;+smcp;"
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Reg(0)/m/sc' undefined
-(Font)              using `TU/Lato-Reg(0)/m/n' instead on input line 97.
+(Font)              using `TU/Lato-Reg(0)/m/n' instead on input line 15.
 
 
 Package fontspec Info: 
@@ -556,7 +555,7 @@ Package fontspec Info:
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Reg(1)/m/sc' undefined
-(Font)              using `TU/Lato-Reg(1)/m/n' instead on input line 97.
+(Font)              using `TU/Lato-Reg(1)/m/n' instead on input line 15.
 
 
 Package fontspec Info: 
@@ -572,7 +571,12 @@ Package fontspec Info:
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 98.
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 17.
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 76--76
+|[]\TU/Lato-Bol(0)/b/n/12 FIRST CLASS HONOURS | JUN
+ []
 
 
 
@@ -587,16 +591,22 @@ L3 programming layer <2025-10-09>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `deedy_resume-reversed.out' has not changed.
-(rerunfilecheck)             Checksum: 67C639F8D512AEB851977615EDEA825E;1152.
+
+Package rerunfilecheck Warning: File `deedy_resume-reversed.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `deedy_resume-reversed.out':
+(rerunfilecheck)             Before: 1DEAFC6AB86A613419834DF3A9636E08;1240
+(rerunfilecheck)             After:  67D27947425C182ECBB52A1A324A656E;1368.
  ) 
 Here is how much of TeX's memory you used:
- 12433 strings out of 403196
- 243052 string characters out of 5455920
- 732063 words of memory out of 5000000
- 40802 multiletter control sequences out of 15000+600000
- 628401 words of font info for 81 fonts, out of 8000000 for 9000
+ 12424 strings out of 403196
+ 242616 string characters out of 5455920
+ 727114 words of memory out of 5000000
+ 40797 multiletter control sequences out of 15000+600000
+ 628369 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,11n,130p,423b,547s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,11n,130p,423b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on deedy_resume-reversed.pdf (1 page).
