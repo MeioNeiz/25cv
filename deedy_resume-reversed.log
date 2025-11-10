@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.11.6)  6 NOV 2025 23:27
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.11.6)  10 NOV 2025 21:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -183,6 +183,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip51
 )
+(C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
 (C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
@@ -257,60 +260,49 @@ Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 )
 
 Package fontspec Info: 
-(fontspec)             Font family 'Lato-Reg(0)' created for font 'Lato-Reg'
-(fontspec)             with options [Ligatures=TeX,Color=primary,Path =
-(fontspec)             fonts/lato/,BoldItalicFont=Lato-BolIta,BoldFont=Lato-Bol
-,ItalicFont=Lato-RegIta].
+(fontspec)             ArialNova scale = 1.21.
+
+
+Package fontspec Info: 
+(fontspec)             ArialNova scale = 1.21.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'ArialNova(0)' created for font 'ArialNova'
+(fontspec)             with options
+(fontspec)             [Ligatures=TeX,Color=primary,Scale=1.21,Path =
+(fontspec)             fonts/arialNova/].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/lato/Lato-Reg]/OT:script=latn;language=dflt;m
-apping=tex-text;color=313131FF
+(fontspec)             <->s*[1.21]"[fonts/arialNova/ArialNova]/OT:script=latn;l
+anguage=dflt;mapping=tex-text;color=313131FF
 (fontspec)             ;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[fonts/lato/Lato-Bol]/OT:script=latn;language=dflt;m
-apping=tex-text;color=313131FF
-(fontspec)             ;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[fonts/lato/Lato-RegIta]/OT:script=latn;language=dfl
-t;mapping=tex-text;color=313131FF
-(fontspec)             ;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[fonts/lato/Lato-BolIta]/OT:script=latn;language=dfl
-t;mapping=tex-text;color=313131FF
-(fontspec)             ;"
+
+LaTeX Font Info:    Font shape `TU/ArialNova(0)/m/n' will be
+(Font)              scaled to size 12.10007pt on input line 35.
+
+Package fontspec Info: 
+(fontspec)             ArialNova scale = 1.21000173774229.
 
 
 Package fontspec Info: 
-(fontspec)             Raleway-ExtraLight scale = 0.974036644482787.
+(fontspec)             ArialNova scale = 1.21000173774229.
 
 
 Package fontspec Info: 
-(fontspec)             Raleway-ExtraLight scale = 0.974036644482787.
-
-
-Package fontspec Info: 
-(fontspec)             Raleway-ExtraLight scale = 0.974036644482787.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'Raleway-ExtraLight(0)' created for font
-(fontspec)             'Raleway-ExtraLight' with options
-(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Mapping=tex-text,Pat
-h
-(fontspec)             = fonts/raleway/].
+(fontspec)             Font family 'ArialNova(1)' created for font 'ArialNova'
+(fontspec)             with options [Ligatures=TeX,Scale=MatchLowercase,Path =
+(fontspec)             fonts/arialNova/].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.974036644482787]"[fonts/raleway/Raleway-ExtraLig
-ht]/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[0.974036644482787]"[fonts/raleway/Raleway-ExtraLig
-ht]/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             <->s*[1.21000173774229]"[fonts/arialNova/ArialNova]/OT:s
+cript=latn;language=dflt;mapping=tex-text;"
 
  (C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
 Package: textpos 2022/07/23 v1.10.1
@@ -481,103 +473,117 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 7.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Lato-Reg(0)/m/n on input line 7.
+(Font)                  OT1/cmr/m/n --> TU/ArialNova(0)/m/n on input line 7.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Lato-Reg(0)/m/n on input line 7.
+(Font)                  OT1/cmr/bx/n --> TU/ArialNova(0)/m/n on input line 7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Lato-Reg(0)/m/n --> TU/Lato-Reg(0)/m/n on input line
- 7.
+(Font)                  TU/ArialNova(0)/m/n --> TU/ArialNova(0)/m/n on input li
+ne 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Lato-Reg(0)/m/it on input line 7.
+(Font)                  OT1/cmr/m/it --> TU/ArialNova(0)/m/it on input line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Lato-Reg(0)/b/n on input line 7.
+(Font)                  OT1/cmr/bx/n --> TU/ArialNova(0)/b/n on input line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Raleway-ExtraLight(0)/m/n on input 
-line 7.
+(Font)                  OT1/cmss/m/n --> TU/ArialNova(1)/m/n on input line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 7.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Lato-Reg(0)/m/n --> TU/Lato-Reg(0)/b/n on input line
- 7.
+(Font)                  TU/ArialNova(0)/m/n --> TU/ArialNova(0)/b/n on input li
+ne 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Lato-Reg(0)/b/it on input line 7.
+(Font)                  OT1/cmr/bx/it --> TU/ArialNova(0)/b/it on input line 7.
+
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Raleway-ExtraLight(0)/b/n on input
- line 7.
+(Font)                  OT1/cmss/bx/n --> TU/ArialNova(1)/b/n on input line 7.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 7.
 
 isodate: babel.sty, (n)german.sty have not been loaded
 
 Package fontspec Info: 
+(fontspec)             Lato-Lig scale = 1.1.
+
+
+Package fontspec Info: 
+(fontspec)             Lato-Lig scale = 1.1.
+
+
+Package fontspec Info: 
 (fontspec)             Font family 'Lato-Lig(0)' created for font 'Lato-Lig'
-(fontspec)             with options [Path = fonts/lato/].
+(fontspec)             with options [Path = fonts/lato/,Scale=1.1].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/lato/Lato-Lig]/OT:script=latn;language=dflt;"
+(fontspec)             <->s*[1.1]"[fonts/lato/Lato-Lig]/OT:script=latn;language
+=dflt;"
 
+LaTeX Font Info:    Font shape `TU/Lato-Lig(0)/m/n' will be
+(Font)              scaled to size 48.40027pt on input line 13.
+
+Package fontspec Info: 
+(fontspec)             Raleway-Medium scale = 1.1.
+
+
+Package fontspec Info: 
+(fontspec)             Raleway-Medium scale = 1.1.
+
+
+Package fontspec Info: 
+(fontspec)             Raleway-Medium scale = 1.1.
 
 
 Package fontspec Info: 
 (fontspec)             Font family 'Raleway-Medium(0)' created for font
-(fontspec)             'Raleway-Medium' with options [Path = fonts/raleway/].
+(fontspec)             'Raleway-Medium' with options [Path =
+(fontspec)             fonts/raleway/,Scale=1.1].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;langua
-ge=dflt;"
+(fontspec)             <->s*[1.1]"[fonts/raleway/Raleway-Medium]/OT:script=latn
+;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"[fonts/raleway/Raleway-Medium]/OT:script=latn;langua
-ge=dflt;+smcp;"
+(fontspec)             <->s*[1.1]"[fonts/raleway/Raleway-Medium]/OT:script=latn
+;language=dflt;+smcp;"
 
-
-LaTeX Font Warning: Font shape `TU/Lato-Reg(0)/m/sc' undefined
-(Font)              using `TU/Lato-Reg(0)/m/n' instead on input line 15.
-
+LaTeX Font Info:    Font shape `TU/Raleway-Medium(0)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 13.
+LaTeX Font Info:    Font shape `TU/Raleway-Medium(0)/m/n' will be
+(Font)              scaled to size 13.31007pt on input line 13.
 
 Package fontspec Info: 
-(fontspec)             Font family 'Lato-Reg(1)' created for font 'Lato-Reg'
-(fontspec)             with options [Path = fonts/lato/].
+(fontspec)             Font family 'ArialNova-Bold(0)' created for font
+(fontspec)             'ArialNova-Bold' with options [Path =
+(fontspec)             fonts/arialNova/].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/lato/Lato-Reg]/OT:script=latn;language=dflt;"
+(fontspec)             <->"[fonts/arialNova/ArialNova-Bold]/OT:script=latn;lang
+uage=dflt;"
 
-
-
-LaTeX Font Warning: Font shape `TU/Lato-Reg(1)/m/sc' undefined
-(Font)              using `TU/Lato-Reg(1)/m/n' instead on input line 15.
-
+LaTeX Font Info:    Font shape `TU/ArialNova(0)/m/n' will be
+(Font)              scaled to size 14.52008pt on input line 28.
 
 Package fontspec Info: 
-(fontspec)             Font family 'Lato-Bol(0)' created for font 'Lato-Bol'
-(fontspec)             with options [Path = fonts/lato/].
+(fontspec)             Font family 'ArialNova(2)' created for font 'ArialNova'
+(fontspec)             with options [Path = fonts/arialNova/].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/lato/Lato-Bol]/OT:script=latn;language=dflt;"
+(fontspec)             <->"[fonts/arialNova/ArialNova]/OT:script=latn;language=
+dflt;"
 
-
-
-LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 17.
-
-
-Underfull \hbox (badness 3657) in paragraph at lines 76--76
-|[]\TU/Lato-Bol(0)/b/n/12 FIRST CLASS HONOURS | JUN
- []
-
+LaTeX Font Info:    Font shape `TU/ArialNova(0)/m/n' will be
+(Font)              scaled to size 13.31007pt on input line 29.
 
 
 [1
@@ -587,26 +593,16 @@ Underfull \hbox (badness 3657) in paragraph at lines 76--76
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-Package rerunfilecheck Warning: File `deedy_resume-reversed.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `deedy_resume-reversed.out':
-(rerunfilecheck)             Before: 1DEAFC6AB86A613419834DF3A9636E08;1240
-(rerunfilecheck)             After:  67D27947425C182ECBB52A1A324A656E;1368.
+Package rerunfilecheck Info: File `deedy_resume-reversed.out' has not changed.
+(rerunfilecheck)             Checksum: B5690ADCFFBADA8CB13366CB8C24650B;1451.
  ) 
 Here is how much of TeX's memory you used:
- 12424 strings out of 403196
- 242616 string characters out of 5455920
- 727114 words of memory out of 5000000
- 40797 multiletter control sequences out of 15000+600000
- 628369 words of font info for 77 fonts, out of 8000000 for 9000
+ 12440 strings out of 403196
+ 242450 string characters out of 5455920
+ 728402 words of memory out of 5000000
+ 40819 multiletter control sequences out of 15000+600000
+ 628329 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,11n,130p,423b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,11n,127p,362b,559s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on deedy_resume-reversed.pdf (1 page).
