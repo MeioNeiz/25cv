@@ -72,6 +72,23 @@ Last Updated on \today
 \color{subheadings}\fontspec[Path = fonts/arialNova/]{ArialNova-Bold}
   \fontsize{12pt}{12pt}\selectfont}{}{0em}{}
 
+\newenvironment{indentcontent}[1][10pt]{%
+  \begin{list}{}{%
+    \setlength{\leftmargin}{#1}%
+    \setlength{\itemindent}{0pt}%
+    \setlength{\labelsep}{0pt}%
+    \setlength{\labelwidth}{0pt}%
+    \setlength{\topsep}{0pt}%
+    \setlength{\partopsep}{0pt}%
+    \setlength{\itemsep}{0pt}%
+    \setlength{\parsep}{0pt}%
+  }%
+  \item[]%
+}{%
+  \end{list}%
+  \vspace{-\baselineskip}%
+}
+
 \newcommand{\runsubsection}[1]{
 \color{subheadings}\fontspec[Path = fonts/arialNova/]{ArialNova-Bold}
   \fontsize{12pt}{12pt}\selectfont {#1} \normalfont}
