@@ -1,14 +1,14 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.11.6)  11 NOV 2025 21:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.11.6)  12 NOV 2025 21:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/jacob/Documents/cv/25cv/deedy_resume-reversed.tex
-(c:/Users/jacob/Documents/cv/25cv/deedy_resume-reversed.tex
+**"c:/Users/jacob/Documents/cv/25cv/Jacob Maschler CV.tex"
+(c:/Users/jacob/Documents/cv/25cv/Jacob Maschler CV.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
-(deedy-resume-reversed.cls
-Document Class: deedy-resume-reversed 2018/09/22 CV class
+(jacob-maschler-cv.cls
+Document Class: jacob-maschler-cv 2018/09/22 CV class
 (C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Users\jacob\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -375,8 +375,8 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip66
 \f@nch@widthR=\skip67
 \@temptokenb=\toks21
-) (deedy_resume-reversed.aux)
-\openout1 = `deedy_resume-reversed.aux'.
+) (Jacob Maschler CV.aux)
+\openout1 = `"Jacob Maschler CV.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -434,9 +434,9 @@ LaTeX Font Info:    ... okay on input line 7.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 7.
-(deedy_resume-reversed.out) (deedy_resume-reversed.out)
+(Jacob Maschler CV.out) (Jacob Maschler CV.out)
 \@outlinefile=\write3
-\openout3 = `deedy_resume-reversed.out'.
+\openout3 = `"Jacob Maschler CV.out"'.
 
 
 Package fontspec Info: 
@@ -588,21 +588,21 @@ LaTeX Font Info:    Font shape `TU/ArialNova(0)/m/n' will be
 
 [1
 
-] (deedy_resume-reversed.aux)
+] (Jacob Maschler CV.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
-Package rerunfilecheck Info: File `deedy_resume-reversed.out' has not changed.
-(rerunfilecheck)             Checksum: 305A7B7883FD413989CAF21EDAE36DF9;1160.
+Package rerunfilecheck Info: File `"Jacob Maschler CV".out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 12447 strings out of 403196
- 242615 string characters out of 5455920
- 732194 words of memory out of 5000000
- 40826 multiletter control sequences out of 15000+600000
+ 12448 strings out of 403196
+ 242522 string characters out of 5455920
+ 731012 words of memory out of 5000000
+ 40827 multiletter control sequences out of 15000+600000
  628329 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,11n,127p,362b,559s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,11n,127p,360b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on deedy_resume-reversed.pdf (1 page).
+Output written on Jacob Maschler CV.pdf (1 page).
