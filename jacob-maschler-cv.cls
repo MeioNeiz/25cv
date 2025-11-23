@@ -97,6 +97,10 @@ Last Updated on \today
 \color{subheadings}\fontspec[Path = fonts/arialNova/]{ArialNova-Bold}
   \fontsize{12pt}{12pt}\selectfont {#1} \normalfont}
 
+\newcommand{\bolder}[1]{%
+  \fontspec[Path = fonts/arialNova/]{ArialNova-Bold}{#1}\fontspec[Path = fonts/arialNova/]{ArialNova}%
+}
+
 % Descriptors command
 \newcommand{\descriptor}[1]{
 \color{subheadings}
